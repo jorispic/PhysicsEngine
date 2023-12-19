@@ -19,12 +19,11 @@ class Game {
 
 		bool running() const { return isRunning; }
 
+
 	private :
 		bool isRunning;
 		SDL_Window* window;
 		SDL_Renderer* renderer;
-
-		int cnt = 0;
 
 };
 

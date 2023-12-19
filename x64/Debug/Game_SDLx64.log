@@ -1,2 +1,6 @@
-﻿  VectorMath.cpp
+﻿  Game.cpp
+  RigidBody.cpp
+D:\Dev\Game_SDLx64\RigidBody.cpp(14,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  main.cpp
+  Génération de code en cours...
   Game_SDLx64.vcxproj -> D:\Dev\Game_SDLx64\x64\Debug\Game_SDLx64.exe

@@ -33,3 +33,5 @@ void Vector3D::log() const
 {
 	std::cout << "[" << x << ", " << y << ", " << z << "]" << std::endl;
 }
+
+const Vector3D Vector3D::zero = Vector3D(0.0f, 0.0f, 0.0f);

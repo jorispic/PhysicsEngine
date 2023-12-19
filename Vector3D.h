@@ -19,6 +19,11 @@ public:
 	friend Vector3D operator*(float k, const Vector3D& v);
 
 	void log() const;
+
+
+	static const Vector3D zero;
 };
+
+
 
 #endif
